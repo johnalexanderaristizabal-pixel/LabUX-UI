@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background : url(Assets/imagen-back.jpg) center 0 no-repeat;
+    background-size: cover;
+    
+}
+
+main{
+    width: 100%;
+    max-width: 700px;
+    margin: 0% auto 0 auto;
+    background: rgba(150, 16, 16, 0.287);
+    padding: 10px;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 80px;
+    color: rgb(18, 143, 181);
+    text-align: center;
+    margin: 20px 0 20px 0;
+}
+
+.subtitulo-pf{
+    font-family: "Rowdies", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 40px;
+    color: rgb(210, 26, 103);
+    margin: 20px 0 20px 0;
+}
+p{
+    font-family: "Rowdies", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+  font-size: 19px;
+  color: rgb(251, 251, 251);
+  text-align: justify;
+  margin: 20px 0 20px 0;
+
+}
+#parrafo-destacado{
+    color: rgb(18, 143, 181);
+    font-weight: 500;
+}
